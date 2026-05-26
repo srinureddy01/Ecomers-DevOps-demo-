@@ -82,13 +82,7 @@ docker run -p 8080:8080 ecomers-app
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is open source and available under the MIT License.
-
-## Author
-
-[srinureddy01](https://github.com/srinureddy01)
 
 ---
 
